@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @SatyabrataIISERM
-- 👀 I’m interested in computational biology broadly.
-- 🌱 I’m currently learning python, R and explore some data bank like PDB, uniport. 
-- 💞️ I’m looking to collaborate on any project related to system biology, computational neurocience or computational genomics etc.
-- 📫 ms23131@iisermohali.ac.in
-- 😄 Pronouns:He/Him but can be yours ;)
-- ⚡ Fun fact: My personal DNA is 70% water, 20% coffee, and 10% uncompiled Python code.
-- ⚡ Fun fact: Here to bridge the gap between wet labs and dry code.
-- ⚡ Fun fact: My interest in computational biology is growing exponentially, but my patience for debugging is a step function.
+👋 Hi, I’m @SatyabrataIISERM
+👀 I’m interested in computational biology broadly.
+🌱 I’m currently learning Python, R, and exploring databases like PDB and UniProt.
+💞️ I’m looking to collaborate on projects related to systems biology, computational neuroscience, or computational genomics.
+📫 ms23131@iisermohali.ac.in
+😄 Pronouns: He/Him
+⚡ Fun fact: Here to bridge the gap between wet labs and dry code.
+⚡ Fun fact: My interest in computational biology is growing exponentially, but my patience for debugging is a step function.
