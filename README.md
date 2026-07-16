@@ -1,4 +1,5 @@
 👋 Hi, I’m @SatyabrataIISERM
+
 👀 I’m interested in computational biology broadly.
 🌱 I’m currently learning Python, R, and exploring databases like PDB and UniProt.
 💞️ I’m looking to collaborate on projects related to systems biology, computational neuroscience, or computational genomics.
